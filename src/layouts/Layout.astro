@@ -1,13 +1,13 @@
 ---
-import { basics } from "@cv"
+import { basics } from "@cv";
 
 interface Props {
-  title: string
+  title: string;
 }
 
-const { title } = Astro.props
+const { title } = Astro.props;
 
-const { image, summary } = basics
+const { image, summary } = basics;
 ---
 
 <!doctype html>
@@ -19,6 +19,12 @@ const { image, summary } = basics
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preload" as="image" href={image} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
     <slot />
@@ -28,11 +34,13 @@ const { image, summary } = basics
 <style is:global>
   html {
     font-family:
+      ui-monospace,
+      SFMono-Regular,
       Menlo,
       Monaco,
-      Lucida Console,
-      "Courier New",
-      Courier,
+      Consolas,
+      Liberation Mono,
+      Courier New,
       monospace;
     background: #fff;
     letter-spacing: -0.025rem;
@@ -66,6 +74,7 @@ const { image, summary } = basics
   h4 {
     margin: 0;
     font-family:
+      Inter,
       system-ui,
       -apple-system,
       BlinkMacSystemFont,
@@ -81,9 +90,9 @@ const { image, summary } = basics
 
   p {
     color: #666;
-    font-size: 0.9rem;
-    line-height: 1.5;
-    margin: 0;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 8px 0 0 0;
     text-wrap: pretty;
   }
 

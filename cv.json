@@ -43,9 +43,9 @@
       "name": "PcCampus.net",
       "position": "Full Stack Developer",
       "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Como Desarrollador de Software y especialista en Mantenimiento de Sistemas en PcCampus, tuve la responsabilidad clave de gestionar y mejorar el código base heredado de la organización. Esta labor implicó la revisión y análisis profundo del código existente, identificando áreas de mejora, corrección de errores y aplicación de soluciones eficientes para mantener y mejorar la funcionalidad del sistema.Una de las contribuciones más destacadas durante mi tiempo en el cargo fue el desarrollo de un comparador de precios implementado en PHP. Este proyecto implicó la creación de un sistema robusto que permitía la comparación precisa de precios entre diferentes productos. La solución no solo mejoró la eficiencia interna, sino que también proporcionó a los usuarios una herramienta valiosa para tomar decisiones informadas. Además, participé activamente en la creación de páginas web personalizadas para clientes, utilizando versiones adaptadas de plataformas populares como PrestaShop y WordPress. Este aspecto del trabajo requería una combinación de habilidades técnicas y creativas, ya que no solo implementé las funcionalidades técnicas solicitadas, sino que también trabajé en la personalización del diseño y la interfaz de usuario para satisfacer las necesidades específicas de cada cliente. Mi papel no solo se centró en el desarrollo técnico, sino que también incluyó la interacción con los clientes para comprender sus requisitos y garantizar que las soluciones propuestas cumplieran con sus expectativas. La capacidad para trabajar en equipo, adaptarme a tecnologías variadas y abordar desafíos complejos en un entorno de desarrollo dinámico fueron elementos clave en el éxito de mis contribuciones a lo largo de mi permanencia en la empresa. En resumen, mi experiencia en este puesto me permitió no solo mantener y mejorar código heredado, sino también liderar proyectos de desarrollo desde cero, proporcionando soluciones efectivas y personalizadas a los problemas técnicos y comerciales de la empresa.",
+      "startDate": "2021-06-01",
+      "endDate": "2024-01-01",
+      "summary": "Como Desarrollador de Software y especialista en Mantenimiento de Sistemas en PcCampus, tuve la responsabilidad clave de gestionar y mejorar el código base heredado de la organización. Esta labor implicó la revisión y análisis profundo del código existente, identificando áreas de mejora, corrección de errores y aplicación de soluciones eficientes para mantener y mejorar la funcionalidad del sistema.",
       "highlights": [
         "Started the company"
       ]
@@ -53,9 +53,9 @@
     {
       "name": "Freelance",
       "position": "Full Stack Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Después de completar mis estudios, inicié mi carrera profesional como desarrollador freelance, participando en diversos proyectos que abarcaron una amplia gama de tecnologías y desafíos. Uno de los proyectos más significativos y que posteriormente se convirtió en un trampolín para mi incorporación a una empresa fue el rediseño completo de la interfaz de usuario (UI) de PcCampus.net. Este proyecto no solo representó una oportunidad para aplicar y expandir mis habilidades técnicas, sino que también me desafió a comprender las necesidades específicas del cliente y a traducirlas en una experiencia de usuario mejorada y atractiva. Las tecnologías clave que utilicé para llevar a cabo este rediseño incluyeron: HTML5 y CSS: Implementé las últimas prácticas de HTML5 y CSS para asegurar un diseño moderno y responsive, brindando una experiencia de usuario óptima en diferentes dispositivos y tamaños de pantalla. JavaScript: Utilicé JavaScript para mejorar la interactividad de la interfaz, incorporando funcionalidades dinámicas y mejorando la usabilidad general del sitio. PHP: Integré y modificé funcionalidades existentes mediante el uso de PHP, asegurando un flujo de trabajo eficiente y la coherencia en la gestión de datos del lado del servidor. PrestaShop: Como parte del rediseño, trabajé con la plataforma PrestaShop para gestionar el comercio electrónico en el sitio, asegurándome de que la nueva interfaz estuviera integrada de manera efectiva con las funciones de comercio electrónico existentes. MySQL: Gestioné la base de datos utilizando MySQL, garantizando la integridad y eficiencia en el manejo de datos. Smarty: Trabajé con el motor de plantillas Smarty para separar la lógica del negocio del diseño, facilitando así el mantenimiento y la escalabilidad del código.",
+      "startDate": "2018-03-01",
+      "endDate": "2021-06-01",
+      "summary": "Después de completar mis estudios, inicié mi carrera profesional como desarrollador freelance, participando en diversos proyectos que abarcaron una amplia gama de tecnologías y desafíos. Uno de los proyectos más significativos y que posteriormente se convirtió en un trampolín para mi incorporación a una empresa fue el rediseño completo de la interfaz de usuario (UI) de PcCampus.net.",
       "highlights": [
         "Started the company"
       ]
@@ -78,7 +78,7 @@
     {
       "institution": "IES Mare Nostrum",
       "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Desarrollo Aplicaciones Web",
+      "area": "Desarrollo de Aplicaciones Web",
       "studyType": "Ciclo Formativo de Grado Superior",
       "startDate": "2016-09-01",
       "endDate": "2018-03-01",
@@ -220,6 +220,22 @@
         "JavaScript Library",
         "UI"
       ]
+    },
+    {
+      "name": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Backend"
+      ]
     }
   ],
   "languages": [
@@ -251,41 +267,47 @@
     {
       "name": "PcCampus.net",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Tienda Online de productos informáticos y tecnológicos",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "PHP & MySQL",
+        "Prestashop",
+        "JavaScript",
+        "HTML & CSS",
+        "Smarty"
       ],
-      "url": "https://mars.codes"
+      "url": "https://pccampus.net"
     },
     {
       "name": "Estudio Osiris",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Landing para agencia de diseño y desarrollo Web",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "PHP & MySQL",
+        "WordPress",
+        "JavaScript",
+        "HTML & CSS"
       ],
-      "url": "https://advent.js/dev"
+      "url": ""
     },
     {
       "name": "Zenmarks",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Gestor de marcadores online con sistema de categorías y etiquetas",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "Vite & React",
+        "CSS Modules",
+        "Firebase",
+        "API REST"
       ],
-      "url": "https://codember.dev"
+      "url": ""
     },
     {
       "name": "TrackMySeries",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Aplicación para llevar un seguimiento de las series que estás viendo",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "Next.js & React",
+        "Tailwind CSS"
       ],
       "url": "https://codi.link",
       "github": "https://github.com/midudev/codi.link"
