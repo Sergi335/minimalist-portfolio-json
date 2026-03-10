@@ -297,9 +297,11 @@
         "Vite & React",
         "CSS Modules",
         "Firebase",
-        "API REST"
+        "API REST",
+        "TypeScript",
+        "Zustand"
       ],
-      "url": ""
+      "url": "https://zenmarks.vercel.app/"
     },
     {
       "name": "TrackMySeries",
