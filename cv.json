@@ -292,7 +292,7 @@
     {
       "name": "Zenmarks",
       "isActive": true,
-      "description": "Gestor de marcadores online con sistema de categorías y etiquetas",
+      "description": "Gestor de marcadores online con sistema de resúmenes automáticos impulsado por Gemini AI",
       "highlights": [
         "Vite & React",
         "CSS Modules",
