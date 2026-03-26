@@ -266,7 +266,7 @@
   "projects": [
     {
       "name": "PcCampus.net",
-      "isActive": true,
+      "isActive": false,
       "description": "Tienda Online de productos informáticos y tecnológicos",
       "highlights": [
         "PHP & MySQL",
@@ -279,7 +279,7 @@
     },
     {
       "name": "Estudio Osiris",
-      "isActive": true,
+      "isActive": false,
       "description": "Landing para agencia de diseño y desarrollo Web",
       "highlights": [
         "PHP & MySQL",
@@ -313,6 +313,17 @@
         "Tailwind CSS"
       ],
       "url": "https://track-series.vercel.app/"
+    },
+    {
+      "name": "Youtube Ai Assistant",
+      "isActive": true,
+      "description": "Aplicación crear títulos, miniaturas, scripts y más para tus vídeos de YouTube",
+      "highlights": [
+        "Next.js & React",
+        "Tailwind CSS",
+        "Vercel AI SDK"
+      ],
+      "url": "https://youtube-ai-assistant-phi.vercel.app/"
     }
   ]
 }
